@@ -26,7 +26,7 @@ if __name__ == "__main__":
     print("MST Algorithm Comparison: Empirical Analysis")
     print("="*65)
     
-    test_sizes = [10, 50, 100, 200, 300, 500]
+    test_sizes = [50, 100, 300, 500]
     
     print(f"{'Input Size ':<15} | {'Naive Time ':<15}   | {'Optimized Time ':<20}")
     print("-" * 60)
